@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with Webbrain Academy Student
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is avialable on Github [Houzing](https://github.com/AzimovAsadbek/Houzing.git).
+
+# can see the DEMO [Houzing](https://netlify.com/AzimovAsadbek/Houzing.git).
 
 ## Available Scripts
 
